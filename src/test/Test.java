@@ -35,5 +35,6 @@ public class Test {
         } catch (NoSuchAlgorithmException | UnsupportedEncodingException ex) {
             
         }
+        System.out.println("Krzysiu to fajny chlopak!");
     }
 }
