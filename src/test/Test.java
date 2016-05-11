@@ -29,6 +29,7 @@ public class Test {
             byte[] digest = md.digest();
             BigInteger bigInt = new BigInteger(1, digest);
             String output = bigInt.toString(16);
+            System.out.println("Eheheheh dla mnie masz stajnia!");
 
             System.out.println(output);
             System.out.println(output);
@@ -36,5 +37,6 @@ public class Test {
             
         }
         System.out.println("Krzysiu to fajny chlopak!");
+        
     }
 }
