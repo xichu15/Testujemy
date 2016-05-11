@@ -31,7 +31,7 @@ public class Test {
             String output = bigInt.toString(16);
 
             System.out.println(output);
-
+            System.out.println(output);
         } catch (NoSuchAlgorithmException | UnsupportedEncodingException ex) {
             
         }
